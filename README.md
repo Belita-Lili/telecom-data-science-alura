@@ -1,4 +1,6 @@
 # telecom-data-science-alura
+![Uploading ChatGPT Image 26 may 2025, 08_55_01 p.m..png…]()
+
 📊 Telecom X - Análisis de Evasión de Clientes (Churn)
 Bienvenido al proyecto de análisis de evasión de clientes de Telecom X. Esta plantilla en Google Colab ha sido diseñada para ayudarte a desarrollar habilidades en análisis de datos y aplicar tus conocimientos para resolver un problema del mundo real: la pérdida de clientes (churn).
 
