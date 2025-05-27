@@ -58,6 +58,7 @@ Asegúrate de contar con acceso a la API o dataset necesario. La estructura del 
 Conjunto de datos limpio y listo para modelado.
 
 Visualizaciones que resalten tendencias importantes.
+![image](https://github.com/user-attachments/assets/3a62cb0f-5a3a-44fd-86e9-b85a115ebce3)
 
 Informe de insights que expliquen el comportamiento de los clientes que cancelan.
 
